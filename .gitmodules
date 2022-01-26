@@ -1,3 +1,6 @@
 [submodule "Labs/Lab01"]
 	path = Labs/Lab01
 	url = https://github.com/nathanlytang/CMPUT404-Lab01.git
+[submodule "Assignments/CMPUT404-assignment-webserver"]
+	path = Assignments/CMPUT404-assignment-webserver
+	url = https://github.com/nathanlytang/CMPUT404-assignment-webserver.git
