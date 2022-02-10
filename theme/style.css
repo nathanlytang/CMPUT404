@@ -7,6 +7,6 @@ body {
     width: 80%;
 }
 
-a:visited {
+a, a:visited {
     color: inherit;
   }
