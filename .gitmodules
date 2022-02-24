@@ -7,3 +7,6 @@
 [submodule "Assignments/CMPUT404-assignment-web-client"]
 	path = Assignments/CMPUT404-assignment-web-client
 	url = https://github.com/nathanlytang/CMPUT404-assignment-web-client.git
+[submodule "Assignments/CMPUT404-assignment-css-hell"]
+	path = Assignments/CMPUT404-assignment-css-hell
+	url = https://github.com/nathanlytang/CMPUT404-assignment-css-hell.git
