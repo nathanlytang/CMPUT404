@@ -13,3 +13,6 @@
 [submodule "Assignments/CMPUT404-assignment-ajax"]
 	path = Assignments/CMPUT404-assignment-ajax
 	url = https://github.com/nathanlytang/CMPUT404-assignment-ajax
+[submodule "Labs/Lab08"]
+	path = Labs/Lab08
+	url = https://github.com/nathanlytang/nodejs-ws-lab
