@@ -16,3 +16,6 @@
 [submodule "Labs/Lab08"]
 	path = Labs/Lab08
 	url = https://github.com/nathanlytang/nodejs-ws-lab
+[submodule "Assignments/CMPUT404-assignment-websockets"]
+	path = Assignments/CMPUT404-assignment-websockets
+	url = https://github.com/nathanlytang/CMPUT404-assignment-websockets
